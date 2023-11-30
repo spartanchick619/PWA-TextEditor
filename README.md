@@ -1,8 +1,8 @@
-# PWATextEditor
+# PWA-TextEditor
 
 ## Description
 
-The PWATextEditor is a single page application that allows the user to edit text in the browser. You can use with our without the internet and can store and retrieve data. 
+The PWA-TextEditor is a single page application that allows the user to edit text in the browser. You can use with our without the internet and can store and retrieve data. 
 
 ## Installation
 
