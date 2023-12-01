@@ -6,10 +6,16 @@ The PWA-TextEditor is a single page application that allows the user to edit tex
 
 ## Installation
 
-Invoke npm i then run the command npm run start: dev in the command line 
+### Server
+
+Switch to the `server` directory and run `npm run dev`.
+
+### Client
+
+Switch to the `client` directory and run `npm run dev`.
 
 ## Usage
-Invoke npm run start in the command line
+Once server and client are both running, goto `http://localhost:3000`.
 
 ## Contributors
 
